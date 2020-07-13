@@ -1,6 +1,6 @@
 # PlanificacionesSemanales
 Este repositorio está dedicado a la planificación semanal. Vamos a realizar la presentación.
-![](file:///C:/Users/karee/Desktop/Planificaci%C3%B3nTT.JPG)
+![](https://github.com/Practicum42-MP-20201/actividad6-ketorres10/blob/master/Planificaci%C3%B3nTT.JPG)
 ## Con título indicamos: Planificación semana 12: 29 de junio al 5 de julio 2020
 Insertamos la captura de la planificación semana 12
 * **Hito más importante de la semana**:  Crear el registro / Login de la aplicación
