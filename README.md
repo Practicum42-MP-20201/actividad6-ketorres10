@@ -12,7 +12,16 @@ La planificación se la lleva a cabo en la herramienta de Trello, en la que se p
 * **Actividades logradas**: Presentación en el Innova/ Presentar los eventos registrados por el administrar en la interfaz de la aplicación.
 
 ## Con título indicamos: Planificación semana 14: 13 al 19 de julio 2020
-* **Hito más importante de la semana**: Registro de usuarios en los eventos / Avance en el desarrollo de la documentación (Capítulo de Desarrollo) / Exposición del trabajo al tribunal
+* **Hito más importante de la semana**: Presentar lo eventos en la interfaz de la aplicación
+* **Actividades logradas**: Presentar lo eventos en la interfaz de la aplicación
+
+## Con título indicamos: Planificación semana 14: 13 al 19 de julio 2020
+* **Hito más importante de la semana**: Registro de usuarios en los eventos / Avance en el desarrollo de la documentación (Capítulo de Desarrollo) / Presentar los subeventos.
+* **Actividades logradas**: Presentar los subeventos anexados a un evento.
+
+## Con título indicamos: Planificación semana 15: 20 al 26 de julio 2020
+* **Hito más importante de la semana**: Continuación del desarrollo de la documentación (Capítulo de Desarrollo) / Diseño de la aplicación/ Ajustar la presentación para el tribunar/ Exposición del trabajo al tribunal
+
 * **Actividades logradas**: 
 
 Y así seguiremos llenando hasta la semana 16.
