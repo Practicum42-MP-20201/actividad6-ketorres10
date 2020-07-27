@@ -2,7 +2,6 @@
 Este repositorio está dedicado a la planificación semanal. Vamos a realizar la presentación.
 La planificación se la lleva a cabo en la herramienta de Trello, en la que se presenta las actividades que se va a desarrollar durante la semanas y las actividades ya desarrolladas.
 
-![](https://github.com/Practicum42-MP-20201/actividad6-ketorres10/blob/master/Planificaci%C3%B3nTT.JPG)
 ## Con título indicamos: Planificación semana 12: 29 de junio al 5 de julio 2020
 ![](https://github.com/Practicum42-MP-20201/actividad6-ketorres10/blob/master/Semana-12.JPG)
 * **Hito más importante de la semana**:  Crear el registro / Login de la aplicación
