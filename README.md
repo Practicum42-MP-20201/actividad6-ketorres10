@@ -20,6 +20,10 @@ La planificación se la lleva a cabo en la herramienta de Trello, en la que se p
 ## Con título indicamos: Planificación semana 15: 20 al 26 de julio 2020
 ![](https://github.com/Practicum42-MP-20201/actividad6-ketorres10/blob/master/Semana-15.JPG)
 * **Hito más importante de la semana**: Continuación del desarrollo de la documentación (Capítulo de Desarrollo) / Diseño de la aplicación/ Ajustar la presentación para el tribunar/ Exposición del trabajo al tribunal
+* **Actividades logradas**: Presentación con el tribunal, diseño de la aplicación.
+
+## Con título indicamos: Planificación semana 16: 27 al 02 de agosto 2020
+* **Hito más importante de la semana**: Ajustar la documentación, reunión con el tutor del Trabajo de titulación.
 
 * **Actividades logradas**: 
 
